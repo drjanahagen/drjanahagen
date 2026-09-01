@@ -5,7 +5,7 @@
 ML and data engineering projects through Kaggle competitions, MIT's Applied
 Data Science Program, and independent study.
 
-📍 Sequim, WA &nbsp;•&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/drjanamhagen)
+📍 Sequim, WA &nbsp;•&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/drjanamhagen) &nbsp;•&nbsp; 📄 [Resume (PDF)](./Jana_Hagen_Resume.pdf)
 
 ---
 

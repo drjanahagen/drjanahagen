@@ -31,7 +31,7 @@ science draw on that same underlying skillset — the labels change, but
 reliable systems all share the same characteristics: integrity,
 elasticity, and an understanding of how components interact. I've spent
 20+ years honing this way of thinking, first in clinical practice and
-now in data.
+now in data science.
 
 ## Skills
 
